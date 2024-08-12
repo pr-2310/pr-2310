@@ -40,7 +40,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-2310&theme=radical" alt="Prithvi's GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-2310&theme=radical&cache_seconds=100" alt="Prithvi's GitHub Streak">
 </p>
 
 <p align="center">
