@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/pr-2310/pr-2310/blob/c3527918e45a1870272590ddfd3379913d2431fe/coding-typing.gif?raw=true" alt="Coding Typing GIF" width="400px">
+  <img src="https://github.com/pr-2310/pr-2310/blob/c3527918e45a1870272590ddfd3379913d2431fe/coding-typing.gif?raw=true" alt="Coding Typing GIF" width="250px" height="200px">
 </p>
 
 ## 🚀 About Me
