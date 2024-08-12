@@ -28,15 +28,6 @@
 - **Cloud and DevOps:** AWS (EC2, Lambda, Sagemaker), Azure, Google Cloud, Docker, Kubernetes
 - **Visualization:** Power BI, Tableau, Google Data Studio, Figma, UI/UX
 
-## 🏆 Achievements
-
-- **Best Intern Award** at Algo Analytics (May 2023)
-- **Published** in IEEE Journal on an Intelligent Tender Management System using Blockchain and IPFS [Read more](https://ieeexplore.ieee.org/document/10169649)
-- **Microsoft AI Fundamentals Certified** (Jul 2022)
-- **Optimization Onramp and MATLAB MathWorks Certified** (Mar 2022)
-- **Amazon-certified Cloud Practitioner** (Aug 2021)
-- **ML Certified from the University of Washington** (Jul 2020)
-
 ## 📈 GitHub Stats
 
 <p align="center">
