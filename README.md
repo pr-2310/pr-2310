@@ -7,9 +7,9 @@
   <a href="https://github.com/pr-2310?tab=repositories"><img src="https://img.shields.io/badge/My-Projects-yellow?style=flat&logo=github"></a>
 </p>
 
-<div align="center">
-  <img src="https://tenor.com/en-GB/view/coding-typing-pc-laptop-power-gif-21599707" width="300" />
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" alt="Coding Typing GIF">
+</p>
 
 ## 🚀 About Me
 
@@ -40,12 +40,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr-2310&show_icons=true&theme=radical" alt="Prithvi's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-2310&theme=radical" alt="Prithvi's GitHub Streak">
+</p>
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=pr-2310&theme=radical" alt="Prithvi's GitHub Trophies">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-2310&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
 
 ## 🧠 My Latest Projects
 
