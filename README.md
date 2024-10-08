@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm currently pursuing my Master's in Computing Entrepreneurship and Innovation at [NYU Courant Institute](https://www.courant.nyu.edu/).
+🎓 I'm currently pursuing my Masters of Science in Computing Entrepreneurship and Innovation at [NYU Courant Institute](https://www.courant.nyu.edu/).
 
 📊 Experienced in Quantitative Research and Trading
 
