@@ -15,7 +15,7 @@
 
 🎓 I'm currently pursuing my Masters of Science in Computing Entrepreneurship and Innovation at [NYU Courant Institute](https://www.courant.nyu.edu/).
 
-📊 Experienced in Quantitative Research and Trading
+📊 Experienced in Data Science and Quantitative Trading
 
 💻 I'm passionate about **Machine Learning**, **Data Science**,  **Business Analytics**, **Product Development**, **Cloud Computing**, and **Entrepreneurship**.
 
